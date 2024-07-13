@@ -7,4 +7,3 @@ llama_index==0.10.55
 motor==3.5.1
 pydantic==2.8.2
 python-dotenv==1.0.1
-llama-index-llms-gemini
